@@ -1,0 +1,22 @@
+
+.my-box{
+	margin-top: 200px;
+	border-radius: 10px;
+}
+.my-warning{
+	color:red;
+	font-size: 20;
+
+}
+.my-background{
+	background-image: url("background2.jpeg");
+	background-size: cover;
+	}
+.my-nav{	
+background-color: #f5f5f5;
+color: #262626;
+font-size: 16px;
+text-align: center;
+line-height: 40px;
+border-radius: 10px 10px 0px 0px;
+}	
